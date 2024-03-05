@@ -1,0 +1,13 @@
+[04-Mar-2024 13:43:25 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in D:\xampp\htdocs\megamart\wp-includes\functions.php on line 6031
+[04-Mar-2024 13:50:44 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in D:\xampp\htdocs\megamart\wp-includes\functions.php on line 6031
+[04-Mar-2024 17:49:27 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in D:\xampp\htdocs\megamart\wp-includes\functions.php on line 6031
+[04-Mar-2024 19:00:38 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in D:\xampp\htdocs\megamart\wp-includes\functions.php on line 6031
+[04-Mar-2024 19:31:36 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in D:\xampp\htdocs\megamart\wp-includes\functions.php on line 6031
+[04-Mar-2024 20:37:38 UTC] PHP Notice:  Undefined index: publishable_key in D:\xampp\htdocs\megamart\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 240
+[04-Mar-2024 20:37:38 UTC] PHP Notice:  Undefined index: secret_key in D:\xampp\htdocs\megamart\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 241
+[04-Mar-2024 20:37:38 UTC] PHP Notice:  Undefined index: test_publishable_key in D:\xampp\htdocs\megamart\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 242
+[04-Mar-2024 20:37:38 UTC] PHP Notice:  Undefined index: test_secret_key in D:\xampp\htdocs\megamart\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 243
+[04-Mar-2024 20:37:38 UTC] PHP Notice:  Undefined index: testmode in D:\xampp\htdocs\megamart\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 247
+[04-Mar-2024 20:37:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[04-Mar-2024 20:37:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[05-Mar-2024 07:25:13 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\xampp\htdocs\megamart\wp-content\themes\megamart\functions.php on line 170
